@@ -22,7 +22,7 @@ public class Programa01 {
 		//DEclarando e inicializando
 		int num10 = 99;
 		
-		float _valor = 35.2f; //Por padrão, os valores de ponto flutuante são double no JOava.
+		float _valor = 35.2f; //Por padrão, os valores de ponto flutuante são double no Java.
 	}
 
 }
