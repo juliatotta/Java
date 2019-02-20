@@ -5,8 +5,9 @@ public class Programa05 {
 	public static void main(String[] args) {
 		int valor = 10, numero;
 		
-		
-		if(valor < 0) {
+		numero = (valor < 0) ? valor : 7 ;
+
+		/*if(valor < 0) {
 			numero = valor;
 		}
 		else {
@@ -14,7 +15,10 @@ public class Programa05 {
 		}
 		
 		//sysout + CTRL + barra de espaço
+		*/
 		System.out.println(numero);
+
 		
+
 	}
 }
