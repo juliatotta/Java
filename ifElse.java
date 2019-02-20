@@ -1,4 +1,4 @@
-//If, Else, If else
+//If, Else, else if
 public class Programa04 {
 
 	public static void main(String[] args) {
